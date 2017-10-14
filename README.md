@@ -1,3 +1,3 @@
-# Programming-by-Doing
-Learning Java by doing the exercises at:
-http://programmingbydoing.com/
+# Learning-Java
+Folder Programming by doing:
+	Doing the exercises at: http://programmingbydoing.com/
